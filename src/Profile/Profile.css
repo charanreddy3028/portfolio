@@ -1,0 +1,40 @@
+/* .profile-list{
+    list-style: none;
+}
+
+.profile-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.profile-nav{
+    text-align: center;
+} */
+
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+    /* margin: -16px; */
+    margin-top: 200px;
+    /* height: calc(100vh - 139px); */
+   
+
+}
+
+.profile-img{
+    border: 3px solid black;
+    border-radius: 75px;
+    border-style:initial;
+    
+}
+
+.profile-name{
+    color: black;
+    
+}
+.profile-tag{
+    color: black;
+}

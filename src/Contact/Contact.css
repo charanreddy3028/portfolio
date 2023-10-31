@@ -1,0 +1,28 @@
+.contact{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30vh;
+    
+  
+}
+
+.mobile{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 75px;
+    background-color: black;
+}
+.mobile h1{
+    text-align: center;
+    
+}
+
+.email h1{
+    text-align: center;
+}
+.email{
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 75px;
+    background-color: black;
+}
